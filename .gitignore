@@ -1,0 +1,15 @@
+# Các file tạm của hệ thống
+.DS_Store
+Thumbs.db
+
+# Thư mục chứa file tạm hoặc đồ tải về từ Bandit để phân tích
+temp/
+downloads/
+*.tmp
+*.log
+
+# Nếu sau này bạn viết script Python/C++ để giải các level cao hơn
+__pycache__/
+*.pyc
+*.exe
+*.out
