@@ -1,0 +1,201 @@
+{
+  "main": {
+    "id": "f115f5688748726c",
+    "type": "split",
+    "children": [
+      {
+        "id": "7da2c67c3b95b5a1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5e633cef52a7253d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tổng hợp lời giải Bandit ( levels 00 - 10 ).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Tổng hợp lời giải Bandit ( levels 00 - 10 )"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7fc2e8f3a3e41fb4",
+    "type": "split",
+    "children": [
+      {
+        "id": "5b2c61fe8ac13633",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "25b5b82a6f12a5ed",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "fd3d6a3acc955cb1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "bcb7a09472c6886b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "8e90a61dd1b47942",
+    "type": "split",
+    "children": [
+      {
+        "id": "40716ce8d3861169",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9aaaaeac7deb9d9b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Tổng hợp lời giải Bandit ( levels 00 - 10 ).md",
+                "collapseAll": false,
+                "extraContext": true,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Tổng hợp lời giải Bandit ( levels 00 - 10 )"
+            }
+          },
+          {
+            "id": "ff6ef7bf267d3cc0",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Tổng hợp lời giải Bandit ( levels 00 - 10 ).md",
+                "linksCollapsed": true,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Tổng hợp lời giải Bandit ( levels 00 - 10 )"
+            }
+          },
+          {
+            "id": "0ac2be5372f514e2",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "935b9e19b02b6125",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "72aec0177e7d69b9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Tổng hợp lời giải Bandit ( levels 00 - 10 ).md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Tổng hợp lời giải Bandit ( levels 00 - 10 )"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 299.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "5e633cef52a7253d",
+  "lastOpenFiles": [
+    "Terminal basic tools/cat.md",
+    "Tổng hợp lời giải Bandit ( levels 00 - 10 ).md",
+    "Terminal basic tools/ls.md",
+    "README.md",
+    "Terminal basic tools/find.md",
+    "Terminal basic tools/file.md",
+    "Terminal basic tools/du (disk usage).md",
+    "Untitled",
+    "[find.md",
+    "Terminal basic tools",
+    "L.md"
+  ]
+}
