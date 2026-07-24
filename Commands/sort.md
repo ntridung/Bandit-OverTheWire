@@ -1,5 +1,8 @@
-# sort [OPTION] file-name 
-	sắp xếp theo các 'OPTION' 
+# sort lines of text files
+# Cú pháp
+``` shell
+sort [OPTION] [FILE] 
+```
 # OPTION
 - none : theo bảng chữ cái 
 - -n (number) : theo số 
